@@ -1,0 +1,31 @@
+_repo: The-Cavalier_9839
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cable, George Washington
+    alias: Cable, G. W. (George Washington)
+    birthdate: 1844
+    deathdate: 1925
+    gutenberg_agent_id: '3163'
+    url: http://www.gutenberg.org/2009/agents/3163
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
+description: This swashbuckling romance follows the fortunes of Miss Charlotte Durand,
+  a Confederate patriot. She falls in love with and marries Captain Oliver only to
+  learn, much to her surprise, that Captain Oliver is not the Confederate officer
+  she believed him to be, but, rather, a Yankee spy. The Cavalier was later adapted
+  for the stage.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- GITenberg
+title: The Cavalier
+url: http://www.gutenberg.org/ebooks/9839
