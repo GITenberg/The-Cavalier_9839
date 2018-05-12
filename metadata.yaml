@@ -1,5 +1,8 @@
 _repo: The-Cavalier_9839
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cable, George Washington
@@ -14,6 +17,8 @@ description: This swashbuckling romance follows the fortunes of Miss Charlotte D
   learn, much to her surprise, that Captain Oliver is not the Confederate officer
   she believed him to be, but, rather, a Yankee spy. The Cavalier was later adapted
   for the stage.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9839#The-Cavalier
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
